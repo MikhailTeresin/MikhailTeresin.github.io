@@ -1,0 +1,167 @@
+<!doctype html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> Comics</title>
+        <link rel='stylesheet' href="css/index.css">
+         <link rel='stylesheet' href="css/flex_training.css">
+   </head>
+
+<body>
+<header class= 'header'>
+        <div class = 'container'>
+                            <!--START BLOCK LOGO-->
+                <div class = 'header-logo'>
+                  <img class='logo-img' src='img/Logocomics.jpg' width="150"/>
+                  <h1 class = 'logo-title'>C O M I C S</h1>
+                </div>
+
+                <!--END BLOCK LOGO-->
+
+
+                <!--START BLOCK MENU-->
+                <div class = 'header-menu'>
+                         <li class = 'menu-item'>
+                            <a class = 'menu-link' href ='#'>Home</a>
+                        </li>
+                        <li class = 'menu-item'>
+                            <a class = 'menu-link' href ='#'>About</a>
+                        </li>
+                        <li class = 'menu-item'>
+                            <a class = 'menu-link' href ='#metka'>Products</a>
+                        </li>
+
+                  </div>
+        </div>
+                <!--END BLOCK MENU-->
+    </header>
+    <!--END HEADER-->
+    <!--START MAIN-->
+    <main class = 'main'>
+        <!--START BANNER SECTION-->
+        <section class = 'banner-section'>
+            <div class = 'container'>
+                <div class = 'banner-text'>
+                    <h1 class = 'banner-title'>Products</h1>
+                    <div class = 'banner-description'>
+                        <a href = '#' class = 'menu-link'>Home</a> &#x2192 <a href = '#' class = 'menu-link'>Products</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--END BANNER SECTION-->
+
+        <!--START CARDS SECTION-->
+
+        <section class = 'cards-section'>
+          <a name = 'metka'>
+            <div class = 'container'>
+                <a name = 'metka'></a>
+                <div class = 'cards-text'>
+                    <h1 class = 'cards-title'>Funny comics</h1>
+                    <div class = 'cards-description'>Cat-pirate treasure hunter.
+                    </div>
+                </div>
+<div class="all">
+              <div class = 'cards'>
+                    <div class = 'cards-row'>
+                        <div class = 'card'>
+
+                            <img class = 'card-img' src="img/Comics.jpg" width="230px">
+
+                            <div class = 'card-body'>
+                                <h3 class = 'card-title'>Treasure found</h3>
+                                <div class = 'card-text'>You can buy comics about funny cat-pirate in our stores
+                                  or in our online store.
+                                </div>
+                                <div class = 'card-button'>
+                                    <a class = 'card-link' href = '#'>View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                     </div>
+
+                </div>
+                <div class = 'cards'>
+                    <div class = 'cards-row'>
+                        <div class = 'card'>
+
+                            <img class = 'card-img' src="img/Comics.jpg" width="230px">
+
+                            <div class = 'card-body'>
+                                <h3 class = 'card-title'>Treasure found</h3>
+                                <div class = 'card-text'>You can buy comics about funny cat-pirate in our stores
+                                  or in our online store.
+                                </div>
+                                <div class = 'card-button'>
+                                    <a class = 'card-link' href = '#'>View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+             <div class = 'cards'>
+                    <div class = 'cards-row'>
+                        <div class = 'card'>
+
+                            <img class = 'card-img' src="img/Comics.jpg" width="230px">
+
+                            <div class = 'card-body'>
+                                <h3 class = 'card-title'>Treasure found</h3>
+                                <div class = 'card-text'>You can buy comics about funny cat-pirate in our stores
+                                  or in our online store.
+                                </div>
+                                <div class = 'card-button'>
+                                    <a class = 'card-link' href = '#'>View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                     </div>
+            </div>
+</div>
+           </div>
+        </section>
+    </main>
+
+
+
+
+
+    <!--END MAIN-->
+
+    <!--START FOOTER-->
+ <footer class = 'footer'>
+   <div class="alla">
+        <div class = 'container'>
+            <div class = 'footer-row'>
+                <div class = 'search'>
+                    <div class = 'copyright'>Copyright 2019 ALL right reserved By....</div>
+                    <div class="footer-search">
+                        <input type="text" class="footer-search-input">
+                        <button class="footer-search-button">Subscribe</button>
+
+                    </div>
+                </div>
+                <div class = 'social-networks'>
+                    <a href="#"><img class = 'footer-logo1' src='img/you tube2.png'  width="50px"></a>
+                    <a href="#"><img class = 'footer-logo2' src='img/telega.png' width="50px"  ></a>
+                   <a href="#"><img class = 'footer-logo3' src='img/insta.png' width="50px"  ></a>
+                </div>
+            </div>
+        </div>
+   </div>
+    </footer>
+
+
+
+
+
+
+
+    <!--END FOOTER-->
+
+</body>
+</html>
