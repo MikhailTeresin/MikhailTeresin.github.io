@@ -1,0 +1,93 @@
+.header-logo {
+    width: 100%;
+     padding: 20px;
+    background-color: orange;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    }
+
+.logo-title  {
+ display: flex;
+  align-self: center;
+  align-items: flex-start;
+justify-content: space-between;
+  margin-left: 125px;
+  margin-top: 100px;
+}
+
+.header-logo {
+  display: flex;
+  flex-direction: row;
+  }
+           /*START MAIN*/
+/*BANNER SECTION*/
+.banner-text {
+margin-top: 80px;
+margin-bottom: 80px;
+}
+
+           /* CARDS */
+.cards-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.all {
+display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+align-items: flex-start;
+}
+
+
+.social-networks {
+display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+align-items:flex-start;
+  justify-content:flex-start;
+}
+
+.alla {
+display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+align-items: flex-start;
+}
+.copyright {
+display: flex;
+  align-items: flex-start;
+justify-content:flex-start;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cards {display: flex}
+.cards {
+display: flex;
+      justify-content:space-around;
+      align-items:center;
+      text-align: center;
+      flex-direction: row;
+      flex-wrap: nowrap;
+    }
+
+.cards three {background:goldenrod;
+
+    .box {
+    width: 100px;
+    height: 100px;
+    margin: 0;}
